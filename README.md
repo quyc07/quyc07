@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust🦀️
 - 💬 Ask me about anything
 - 📫 How to reach me: quycsff@gmail.com
-- 😄 Pronouns: andy
-- ⚡ Fun fact: Really Love Movie
+- 😄 Pronouns: Andy
+- ⚡ Fun fact: Really Love Movie.
 
